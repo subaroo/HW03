@@ -19,8 +19,11 @@
 ####[Basic Python Exercises][Google:BPE]
 + in HW03_string1.py
 
+###IPython Notebook
+####[Please install][ipython]
 
 <!-- Links -->
 
 [ch6]: http://www.greenteapress.com/thinkpython/html/thinkpython007.html
 [Google:BPE]: https://developers.google.com/edu/python/exercises/basic
+[ipython]: https://github.com/python-boot-camp/HW03/blob/master/ipython_notebook.md
