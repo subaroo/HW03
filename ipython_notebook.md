@@ -1,9 +1,9 @@
 # IPython Notebook
 
-[Basic Introduction][1]
-[Detailed Introduction][2]
-[Tutorials in Notebooks][3]
-[Install][4]
++ [Basic Introduction][1]
++ [Detailed Introduction][2]
++ [Tutorials in Notebooks][3]
++ [Install][4]
 
 
 <!-- Links -->
